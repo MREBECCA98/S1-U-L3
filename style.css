@@ -1,2 +1,34 @@
-h1 {border-top: 1px solid yellow;}
-h1  {color: blue;font-size:0,5em;}
+main {
+  margin-inline: auto;
+  width: 900px;
+}
+h4 {
+  border-top: 1px solid yellow;
+  color: #315f39;
+  font-size: 0.5em;
+  padding: 12px;
+  background-color: #e5c8db30;
+}
+h1 {
+  padding: 40px;
+}
+p {
+  color: #4f4b4b;
+}
+h3 {
+  margin-block: auto;
+  color: red;
+}
+h2 {
+  padding-block-start: 30px;
+  border-bottom: #315f39;
+}
+ol {
+  border-top: 1px solid rgb(93 172 197);
+}
+p {
+  color: black;
+}
+p a {
+  color: rgb(93 172 197);
+}
